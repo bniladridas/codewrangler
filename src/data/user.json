@@ -1,0 +1,36 @@
+{
+	"name": "Niladri Das",
+	"profession": "Software Wrangler (Deployed all projects using Vercel)",
+	"links": [
+		{
+			"url": "https://gravity-blog-xi.vercel.app/",
+			"icon": "link",
+			"title": "Blog Corral",
+			"description": "Wrangled with JavaScript, CSS, HTML, React, Firebase"
+		},
+		{
+			"url": "https://xai-fox.vercel.app/",
+			"icon": "link",
+			"title": "CodeGen Blog Sidekick",
+			"description": "Wrangled with JavaScript, HTML, CSS, React, Grok Beta API"
+		},
+		{
+			"url": "https://dragon-ai-assistant.vercel.app/",
+			"icon": "link",
+			"title": "AI Sidekick with Gemini API",
+			"description": "Wrangled with HTML, CSS, JavaScript, Python, Flask, Gemini API"
+		},
+		{
+			"url": "https://whitehatgazette.vercel.app/",
+			"icon": "link",
+			"title": "Linux Terminal Ranch",
+			"description": "Wrangled with Ajax, Tailwind, Astro, React, JavaScript"
+		},
+		{
+			"url": "https://melody-three.vercel.app/",
+			"icon": "link",
+			"title": "Music Streaming Saloon",
+			"description": "Wrangled with HTML, JavaScript, CSS, Node.js, Spotify API"
+		}
+	]
+}
